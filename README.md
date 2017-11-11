@@ -1,15 +1,14 @@
 NoJacket
 ==================================================
 
-_Not Just Another Configuration, and Execution Tool_
+**No**_t_ **J**_ust_ **A**_nother_ **C**_onfiguration, and_ **E**_xecution_ **T**_ool_
 
-_NOJACkET_
 
 
 Overview
 -----------------------------
 
-DISCLAIMER: This is currently a learning/experimental project and may never achieve the documented goals
+**DISCLAIMER:** _This is currently a learning/experimental project and may never achieve the documented goals_
 
 Frustrated by the slow and erroneous nature of using most COE (Configuration, Orchestration and Execution) tools, this project hopes to solve 
 
@@ -28,15 +27,15 @@ When compared to existing COE tools/systems, _nojacket_ aims to include:
 
 ### Existing features
 - Defaults to running tasks in the order they're defined
-- No agent required (i.e. *push* mode using SSH)
+- No agent required (i.e. _push_ mode using SSH)
 - Decent templating library (e.g. jinja/jingoo)
 - Easy 
 - Parallelism
 - Nodes can 
-- Control node can run as a server, accepting connections from self-bootsrapped nodes (i.e. *pull* mode)
+- Control node can run as a server, accepting connections from self-bootsrapped nodes (i.e. _pull_ mode)
 
 ### Limitations
-- All execution *modules/libraries* must be (or have bindings) written in OCaml
+- All execution _modules/libraries_ must be (or have bindings) written in OCaml
 
 Milestones
 -----------------------------
